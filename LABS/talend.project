@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_H9i5EQWLEeio9fs0KfCEiQ" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2018-01-30T12:20:15.000+0530" author="_H9i5EgWLEeio9fs0KfCEiQ" productVersion="Talend Data Integration-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/vdalam/git-training&quot;,&quot;login&quot;:&quot;vdalam@talend.com&quot;,&quot;passwd&quot;:&quot;gbxR0d3KzBTiavzOrpR5gA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_H9i5EQWLEeio9fs0KfCEiQ" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2018-01-30T12:20:15.000+0530" author="_H9i5EgWLEeio9fs0KfCEiQ" productVersion="Talend Data Integration-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/vdalam/git-training&quot;,&quot;login&quot;:&quot;vdalam@talend.com&quot;,&quot;passwd&quot;:&quot;gbxR0d3KzBTiavzOrpR5gA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <technicalStatus xmi:id="_IG960AWLEeio9fs0KfCEiQ" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_IG960QWLEeio9fs0KfCEiQ" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_IG960gWLEeio9fs0KfCEiQ" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_IG0w4AWLEeio9fs0KfCEiQ" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_IG0w4QWLEeio9fs0KfCEiQ" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_IG0w4gWLEeio9fs0KfCEiQ" label="validated" code="VAL"/>
     <migrationTask xmi:id="_IFhwYAWLEeio9fs0KfCEiQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_IFiXcAWLEeio9fs0KfCEiQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_IFiXcQWLEeio9fs0KfCEiQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -20,4 +26,7 @@
     <migrationTask xmi:id="_IFiXfwWLEeio9fs0KfCEiQ" id="org.talend.repository.model.migration.AddJavaVersionMigrationTask" breaks="6.3.1" version="6.4.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_H9i5EgWLEeio9fs0KfCEiQ" login="admin@company.com" firstName="Admin" lastName="Admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_IHGdsAWLEeio9fs0KfCEiQ" login="gituser@company.com" firstName="Git" lastName="User" type="DI" additionnalData="{}">
+    <projectAuthorization href="../C:/Talend/6.4.1/studio/#/"/>
+  </TalendProperties:User>
 </xmi:XMI>
