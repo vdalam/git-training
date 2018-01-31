@@ -105,7 +105,7 @@
     <routinesParameter id="_IKvAgAWLEeio9fs0KfCEiQ" name="TalendString"/>
     <routinesParameter id="_IK4xgAWLEeio9fs0KfCEiQ" name="TalendStringUtil"/>
   </parameters>
-  <node componentName="tFixedFlowInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="192" posY="192">
+  <node componentName="tFixedFlowInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="256" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFixedFlowInput_1" show="false"/>
     <elementParameter field="TEXT" name="NB_ROWS" value="1"/>
     <elementParameter field="RADIO" name="USE_SINGLEMODE" value="true"/>
@@ -120,7 +120,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tFixedFlowInput_1"/>
   </node>
-  <note opaque="true" posX="288" posY="160" sizeHeight="64" sizeWidth="96" text="branch 1"/>
+  <note opaque="true" posX="224" posY="96" sizeHeight="64" sizeWidth="96" text="branch 1"/>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFixedFlowInput_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
