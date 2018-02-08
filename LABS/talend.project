@@ -126,7 +126,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_S5M2oAsjEeiG_Ie_JN0PiA">
       <baseItem xmi:id="_S5M2oQsjEeiG_Ie_JN0PiA" id="_WQVG8IrYEd2xUKNKyEp6fg" version="0.1" type="job"/>
-      <relatedItems xmi:id="_S5M2ogsjEeiG_Ie_JN0PiA" id="_CIWlwH-UEeK3V_rjYXUsOA" version="Latest" type="property"/>
       <relatedItems xmi:id="_S5M2owsjEeiG_Ie_JN0PiA" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_S5M2pAsjEeiG_Ie_JN0PiA" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_S5M2pQsjEeiG_Ie_JN0PiA" id="TalendString" version="Latest" type="routine"/>
@@ -138,6 +137,7 @@
       <relatedItems xmi:id="_S5M2qwsjEeiG_Ie_JN0PiA" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_S5M2rAsjEeiG_Ie_JN0PiA" id="JobConductorWS" version="Latest" type="routine"/>
       <relatedItems xmi:id="_S5M2rQsjEeiG_Ie_JN0PiA" id="_2h2_gIrWEd2xUKNKyEp6fg - flowmetercatcher" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_1CZ8AAyhEeiG_Ie_JN0PiA" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <migrationTask xmi:id="_IFhwYAWLEeio9fs0KfCEiQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_IFiXcAWLEeio9fs0KfCEiQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
