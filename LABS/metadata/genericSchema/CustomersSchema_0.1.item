@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_eBn84f7xEeSgjrPDZFTtUw" name="repository.metadataGenericSchema" dataPackage="_eBn84v7xEeSgjrPDZFTtUw"/>
+  <TalendMetadata:GenericPackage xmi:id="_eBn84v7xEeSgjrPDZFTtUw" name="repository.metadataGenericSchema" dataManager="_eBn84f7xEeSgjrPDZFTtUw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_eBn84_7xEeSgjrPDZFTtUw" id="_Fnw2EP7xEeSgjrPDZFTtUw" label="customers_metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eBn85P7xEeSgjrPDZFTtUw" name="FirstName" label="FirstName" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eBn85f7xEeSgjrPDZFTtUw" name="LastName" label="LastName" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eBn85v7xEeSgjrPDZFTtUw" name="Number" label="Number" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eBn85_7xEeSgjrPDZFTtUw" name="Street" label="Street" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eBn86P7xEeSgjrPDZFTtUw" name="City" label="City" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eBn86f7xEeSgjrPDZFTtUw" name="State" label="State" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
